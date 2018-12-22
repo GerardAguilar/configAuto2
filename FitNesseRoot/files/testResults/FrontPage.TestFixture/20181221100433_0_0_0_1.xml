@@ -1,0 +1,1433 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20180127</FitNesseVersion>
+  <rootPath>FrontPage.TestFixture</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>2</exceptions>
+    </counts>
+    <date>2018-12-21T10:04:34-08:00</date>
+    <runTimeInMillis>31991</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\eclipse-workspace\configAutomation2\target\classes&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;paths&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: TEST_SYSTEM=slim&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\baseline&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\resources.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\rt.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jce.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\access-bridge-64.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\cldrdata.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\dnsns.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\jaccess.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\jfxrt.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\localedata.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\nashorn.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunec.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunjce_provider.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunmscapi.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunpkcs11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\zipfs.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\htmlparser\htmlparser\2.1\htmlparser-2.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\htmlparser\htmllexer\2.1\htmllexer-2.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\json\json\20151123\json-20151123.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\ant\ant\1.9.6\ant-1.9.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\ant\ant-launcher\1.9.6\ant-launcher-1.9.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\junit\junit\4.12\junit-4.12.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi\3.11\poi-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml\3.11\poi-ooxml-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.11\poi-ooxml-schemas-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna\4.2.0\jna-4.2.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;imports&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;configAutomation&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;fitnesse.slim.test&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;fitnesse.fixtures&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;&lt;span class="pass"&gt;Test Fixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor2"&gt;
+		&lt;td&gt;set target excel&lt;/td&gt;
+		&lt;td colspan="2"&gt;C:\Users\gaguilar\Desktop\Andersen.xlsx&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set target chrome&lt;/td&gt;
+		&lt;td colspan="2"&gt;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;set target home&lt;/td&gt;
+		&lt;td colspan="2"&gt;https://andersen.inhance.io/app/test.html&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor6"&gt;
+		&lt;td colspan="3"&gt;set automation tools&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;set target sheet&lt;/td&gt;
+		&lt;td colspan="2"&gt;Auto Config 2&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="exception closed"&gt;
+		&lt;td class="error"&gt;show&lt;/td&gt;
+		&lt;td class="error"&gt;simulation&lt;/td&gt;
+		&lt;td class="error"&gt;Gliding A-Series Frenchwood 1&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr class="exception-detail closed-detail"&gt;&lt;td colspan="3"&gt;&lt;pre&gt;__EXCEPTION__:org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DELL-XPS-15-12', ip: '192.168.151.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\gaguilar\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59405}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: c6e3d9aa9b3f7518cff0102240c9a812
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [rt.jar:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [rt.jar:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [rt.jar:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [rt.jar:1.8.0_161]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:160) [selenium-remote-driver-3.14.0.jar]
+	at configAutomation.AutomationTools.select(AutomationTools.java:297) [file:/C:/eclipse-workspace/configAutomation2/target/classes/]
+	at configAutomation.TestFixture.navigate(TestFixture.java:126) [file:/C:/eclipse-workspace/configAutomation2/target/classes/]
+	at configAutomation.TestFixture.simulation(TestFixture.java:73) [file:/C:/eclipse-workspace/configAutomation2/target/classes/]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) [rt.jar:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) [rt.jar:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) [rt.jar:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) [rt.jar:1.8.0_161]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:221) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:206) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:188) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:166) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:139) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:112) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.handle(SlimService.java:169) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:177) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.accept(SlimService.java:139) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:92) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.main(SlimService.java:57) [fitnesse-20180127.jar:20180127]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr class="exception closed"&gt;
+		&lt;td colspan="3" class="error"&gt;close browser&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr class="exception-detail closed-detail"&gt;&lt;td colspan="3"&gt;&lt;pre&gt;__EXCEPTION__:org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DELL-XPS-15-12', ip: '192.168.151.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\gaguilar\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59405}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: c6e3d9aa9b3f7518cff0102240c9a812
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [rt.jar:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [rt.jar:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [rt.jar:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [rt.jar:1.8.0_161]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605) [selenium-remote-driver-3.14.0.jar]
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:438) [selenium-remote-driver-3.14.0.jar]
+	at configAutomation.AutomationTools.closeBrowser(AutomationTools.java:191) [file:/C:/eclipse-workspace/configAutomation2/target/classes/]
+	at configAutomation.TestFixture.closeBrowser(TestFixture.java:153) [file:/C:/eclipse-workspace/configAutomation2/target/classes/]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) [rt.jar:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) [rt.jar:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) [rt.jar:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) [rt.jar:1.8.0_161]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:221) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:206) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:188) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:166) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:139) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:112) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.handle(SlimService.java:169) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:177) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.accept(SlimService.java:139) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:92) [fitnesse-20180127.jar:20180127]
+	at fitnesse.slim.SlimService.main(SlimService.java:57) [fitnesse-20180127.jar:20180127]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>TestFixture</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='import_0_0', instruction='import', path='configAutomation'}</instruction>
+        <slimResult>pass(configAutomation)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_0_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>configAutomation</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='import_1_0', instruction='import', path='fitnesse.slim.test'}</instruction>
+        <slimResult>pass(fitnesse.slim.test)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_1_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>fitnesse.slim.test</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='import_2_0', instruction='import', path='fitnesse.fixtures'}</instruction>
+        <slimResult>pass(fitnesse.fixtures)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_2_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>fitnesse.fixtures</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_0', instruction='make', instanceName='scriptTableActor', className='TestFixture', args=[]}</instruction>
+        <slimResult>pass(Test Fixture)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>scriptTable_3_0</instructionId>
+                    <col>1</col>
+                              <row>0</row>
+                    <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Test Fixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_1', instruction='call', instanceName='scriptTableActor', methodName='setTargetExcel', args=[C:\Users\gaguilar\Desktop\Andersen.xlsx]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_1</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_2', instruction='call', instanceName='scriptTableActor', methodName='setTargetChrome', args=[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_2</instructionId>
+                    <col>0</col>
+                              <row>2</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_3', instruction='call', instanceName='scriptTableActor', methodName='setTargetHome', args=[https://andersen.inhance.io/app/test.html]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_3</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_4', instruction='call', instanceName='scriptTableActor', methodName='setAutomationTools', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_4</instructionId>
+                    <col>0</col>
+                              <row>4</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_5', instruction='call', instanceName='scriptTableActor', methodName='setTargetSheet', args=[Auto Config 2]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_5</instructionId>
+                    <col>0</col>
+                              <row>5</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_6', instruction='call', instanceName='scriptTableActor', methodName='simulation', args=[Gliding A-Series Frenchwood 1]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_6</instructionId>
+                              <type>ShowActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_7', instruction='call', instanceName='scriptTableActor', methodName='closeBrowser', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_7</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"C:\Program Files\Java\jdk1.8.0_161\bin\java" -cp "C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar;C:\eclipse-workspace\configAutomation2\target\classes;C:\baseline;C:\Program Files\Java\jre1.8.0_161\lib\resources.jar;C:\Program Files\Java\jre1.8.0_161\lib\rt.jar;C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_161\lib\jce.jar;C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\zipfs.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar;C:\Users\gaguilar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\gaguilar\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\gaguilar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\gaguilar\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\gaguilar\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\gaguilar\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar;C:\Users\gaguilar\.m2\repository\org\htmlparser\htmlparser\2.1\htmlparser-2.1.jar;C:\Users\gaguilar\.m2\repository\org\htmlparser\htmllexer\2.1\htmllexer-2.1.jar;C:\Users\gaguilar\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar;C:\Users\gaguilar\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\gaguilar\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\gaguilar\.m2\repository\org\json\json\20151123\json-20151123.jar;C:\Users\gaguilar\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar;C:\Users\gaguilar\.m2\repository\org\apache\ant\ant\1.9.6\ant-1.9.6.jar;C:\Users\gaguilar\.m2\repository\org\apache\ant\ant-launcher\1.9.6\ant-launcher-1.9.6.jar;C:\Users\gaguilar\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\gaguilar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi\3.11\poi-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml\3.11\poi-ooxml-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.11\poi-ooxml-schemas-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\gaguilar\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\gaguilar\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar;C:\Users\gaguilar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\gaguilar\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar;C:\Users\gaguilar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\gaguilar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\gaguilar\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\gaguilar\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar;C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar;C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna\4.2.0\jna-4.2.0.jar;C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;C:\Users\gaguilar\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar;C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar" fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>Directory: C:\eclipse-workspace\configAutomation2\.\test
+ExcelUtilities Initializing: C:\Users\gaguilar\Desktop\Andersen.xlsx
+Target Sheet = C:\Users\gaguilar\Desktop\Andersen.xlsx
+Target Chrome = C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Target Home = https://andersen.inhance.io/app/test.html
+tempFitnessDirectory: C:\eclipse-workspace\configAutomation2\FitNesseRoot\files\
+Location of chromedriver.exe is C:\eclipse-workspace\configAutomation2\chromedriver.exe
+resource: file:/C:/eclipse-workspace/configAutomation2/target/classes/chromedriver.exe
+chrome binary location: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chromedriver.exe already exists
+2018-12-21 10:04:52 [main] INFO  Info  - vlcj: 3.10.1
+
+2018-12-21 10:04:52 [main] INFO  Info  - java: 1.8.0_161 Oracle Corporation
+
+2018-12-21 10:04:52 [main] INFO  Info  - java home: C:\Program Files\Java\jdk1.8.0_161\jre
+
+2018-12-21 10:04:52 [main] INFO  Info  - os: Windows 10 10.0 amd64
+
+2018-12-21 10:04:52 [main] INFO  LibVlcFactory  - vlc: 3.0.4 Vetinari, changeset 3.0.4-0-gf615db6332
+
+2018-12-21 10:04:52 [main] INFO  LibVlcFactory  - libvlc: libvlc.dll
+
+Target Sheet = Auto Config 2
+opening sheet: Auto Config 2 in Name: /xl/worksheets/sheet2.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+getting cell data: options [7]
+getting cell data: Choose an option [16]
+getting cell data: Patio Door [10]
+getting cell data: Choose an option [16]
+getting cell data: Gliding 200 Series Perma-Shield 1:1 [35]
+getting cell data: Gliding 200 Series Perma-Shield 1:1:1:1 [39]
+getting cell data: Gliding 200 Series Narroline 1:1 [32]
+getting cell data: Gliding 200 Series Narroline 1:1:1:1 [36]
+getting cell data: Gliding 400 Series Frenchwood 1:1 [33]
+getting cell data: Gliding 400 Series Frenchwood 1:1:1:1 [37]
+getting cell data: Gliding A-Series Frenchwood 1 [29]
+getting cell data: Gliding A-Series Frenchwood 1:1 [31]
+getting cell data: Gliding A-Series Frenchwood 1:2:1 [33]
+getting cell data: Gliding A-Series Frenchwood 1:1:1:1 [35]
+getting cell data: Inswing 400 Series Frenchwood 1 [31]
+getting cell data: Inswing 400 Series Frenchwood 1:1 [33]
+getting cell data: Inswing 400 Series Frenchwood 1:1:1 [35]
+getting cell data: Inswing A-Series Frenchwood 1 [29]
+getting cell data: Inswing A-Series Frenchwood 1:1 [31]
+getting cell data: Inswing A-Series Frenchwood 1:1:1 [33]
+getting cell data: Sidelight 400 Series Frenchwood 1 [33]
+getting cell data: Transom 400 Series Frenchwood 1 [31]
+getting cell data: Sidelight/Transom 400 Series Frenchwood 1 [41]
+getting cell data: Sidelight 200 Series Narroline 1 [32]
+getting cell data: Outswing A-Series Frenchwood 1 [30]
+getting cell data: Outswing A-Series Frenchwood 1:1 [32]
+getting cell data: Choose an option [16]
+getting cell data: Pine [4]
+getting cell data: Oak [3]
+getting cell data: Maple [5]
+getting cell data: Fir [3]
+getting cell data: Mahogany [8]
+getting cell data: Cherry [6]
+getting cell data: Black [5]
+getting cell data: Sandtone [8]
+getting cell data: Canvas [6]
+getting cell data: Dark Bronze [11]
+getting cell data: White [5]
+getting cell data: Terratone [9]
+getting cell data: Alder [5]
+getting cell data: Choose an option [16]
+getting cell data: White [5]
+getting cell data: Canvas [6]
+getting cell data: Sandtone [8]
+getting cell data: Terratone [9]
+getting cell data: Cocoa Bean [10]
+getting cell data: Dark Bronze [11]
+getting cell data: Forest Green [12]
+getting cell data: Black [5]
+getting cell data: Red Rock [8]
+getting cell data: Dove Grey [9]
+getting cell data: Prairie Grass [13]
+getting cell data: Choose an option [16]
+getting cell data: None [4]
+getting cell data: White [5]
+getting cell data: Primed [6]
+getting cell data: Birch Bark [10]
+getting cell data: Clear Coat [10]
+getting cell data: Honey [5]
+getting cell data: Cinnamon [8]
+getting cell data: Mocha [5]
+getting cell data: Russet [6]
+getting cell data: Choose an option [16]
+getting cell data: Grey Sill [9]
+getting cell data: Bronze Sill [11]
+getting cell data: Choose an option [16]
+getting cell data: High Performance SmartSun Glass [31]
+getting cell data: High Performance [16]
+getting cell data: High Performance Sun Glass [26]
+getting cell data: High Performance SmartSun with HeatLock Gloass [46]
+getting cell data: SmartSun Triple Pane [20]
+getting cell data: Choose an option [16]
+getting cell data: High Performance SmartSun Glass [31]
+getting cell data: High Performance [16]
+getting cell data: High Performance Sun Glass [26]
+getting cell data: High Performance SmartSun with HeatLock Gloass [46]
+getting cell data: SmartSun Triple Pane [20]
+getting cell data: Choose an option [16]
+getting cell data: true [4]
+getting cell data: false [5]
+getting cell data: Choose an option [16]
+getting cell data: No Pattern [10]
+getting cell data: Obscure [7]
+getting cell data: Cascade [7]
+getting cell data: Fern [4]
+getting cell data: Reed [4]
+getting cell data: Choose an option [16]
+getting cell data: No Pattern [10]
+getting cell data: Obscure [7]
+getting cell data: Fern [4]
+getting cell data: Reed [4]
+getting cell data: Cascade [7]
+getting cell data: Choose an option [16]
+getting cell data: Tribeca [7]
+getting cell data: Anvers [6]
+getting cell data: Newbury [7]
+getting cell data: Covington [9]
+getting cell data: Whitmore [8]
+getting cell data: Encino [6]
+getting cell data: Yuma [4]
+getting cell data: Albany [6]
+getting cell data: Choose an option [16]
+getting cell data: true [4]
+getting cell data: false [5]
+getting cell data: Choose an option [16]
+getting cell data: White [5]
+getting cell data: Stone [5]
+getting cell data: Black [5]
+getting cell data: Gold Dust [9]
+getting cell data: Distressed Nickel [17]
+getting cell data: Distressed Bronze [17]
+getting cell data: Satin Nickel [12]
+getting cell data: Oil Rubbed Bronze [17]
+getting cell data: Antique Brass [13]
+getting cell data: Bright Brass [12]
+getting cell data: Brushed Chrome [14]
+getting cell data: Polished Chrome [15]
+getting cell data: Canvas [6]
+getting cell data: Choose an option [16]
+getting cell data: White [5]
+getting cell data: Black [5]
+getting cell data: Gold Dust [9]
+getting cell data: Distressed Nickel [17]
+getting cell data: Distressed Bronze [17]
+getting cell data: Satin Nickel [12]
+getting cell data: Oil Rubbed Bronze [17]
+getting cell data: Antique Brass [13]
+getting cell data: Bright Brass [12]
+getting cell data: Brushed Chrome [14]
+getting cell data: Polished Chrome [15]
+getting cell data: Choose an option [16]
+getting cell data: No Screen [9]
+getting cell data: Fiberglass [10]
+getting cell data: White [5]
+getting cell data: Canvas [6]
+getting cell data: Sandtone [8]
+getting cell data: Terratone [9]
+getting cell data: Dark Bronze [11]
+getting cell data: Black [5]
+getting cell data: Pine [4]
+getting cell data: Oak [3]
+getting cell data: Maple [5]
+getting cell data: Stone [5]
+getting cell data: Red Rock [8]
+getting cell data: Cocoa Bean [10]
+getting cell data: Forest Green [12]
+getting cell data: Dove Grey [9]
+getting cell data: Prairie Grass [13]
+getting cell data: Choose an option [16]
+getting cell data: Hinged [6]
+getting cell data: Gliding [7]
+getting cell data: Top-Hung Gliding [16]
+getting cell data: Retractable [11]
+getting cell data: Double Gliding [14]
+getting cell data: Top-Hung Double Gliding [23]
+getting cell data: Double Retractable [18]
+getting cell data: Choose an option [16]
+getting cell data: true [4]
+getting cell data: false [5]
+getting cell data: Choose an option [16]
+getting cell data: No Grilles [10]
+getting cell data: Colonial [8]
+getting cell data: Prairie [7]
+getting cell data: Farmhouse [9]
+getting cell data: Short Fractional [16]
+getting cell data: Long Fractional [15]
+getting cell data: Choose an option [16]
+getting cell data: No Grilles [10]
+getting cell data: Colonial [8]
+getting cell data: Prairie [7]
+getting cell data: Farmhouse [9]
+getting cell data: Short Fractional [16]
+getting cell data: Long Fractional [15]
+getting cell data: Choose an option [16]
+getting cell data: None [4]
+getting cell data: 3 1/2" Flat [11]
+getting cell data: 3 1/2" Flat with Decorative Trim [32]
+getting cell data: 4 1/2" Flat [11]
+getting cell data: 4 1/2" Flat with Decorative Trim [32]
+getting cell data: Brickmould [10]
+getting cell data: Choose an option [16]
+getting cell data: Grilles Between Glass (GBG) [27]
+getting cell data: Full Divided Light (FDL with spacer) [36]
+getting cell data: Interior Wood Only (INTW) [25]
+getting cell data: Interior Wood and GBG (INTW + GBG) [34]
+getting cell data: Simulated Divided Light (FDL w/o spacer) [40]
+getting cell data: Choose an option [16]
+getting cell data: Active / Stationary [19]
+getting cell data: Stationary / Active [19]
+getting cell data: 0,0 [3]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 0,150 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 0,150 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 0,-450 [6]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 0,-150 [6]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 150,0 [5]
+getting cell data: 0,300 [5]
+getting cell data:  [0]
+rowCount: 235
+ProductOption String: select:id='product-type'
+ProductOption String: select:id='product-type'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='product'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Interior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Exterior_Color'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Interior_Pre_Finish'
+ProductOption String: select:data-prop='Door_Sill_Color'
+ProductOption String: select:data-prop='Door_Sill_Color'
+ProductOption String: select:data-prop='Door_Sill_Color'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S1'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Glazing_S2'
+ProductOption String: select:data-prop='Breather_Tubes'
+ProductOption String: select:data-prop='Breather_Tubes'
+ProductOption String: select:data-prop='Breather_Tubes'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S1'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Glass_Pattern_S2'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Hardware_Style'
+ProductOption String: select:data-prop='Exterior_Keyed_Lock'
+ProductOption String: select:data-prop='Exterior_Keyed_Lock'
+ProductOption String: select:data-prop='Exterior_Keyed_Lock'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hardware_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Hinge_Color'
+ProductOption String: select:data-prop='Screen_Type'
+ProductOption String: select:data-prop='Screen_Type'
+ProductOption String: select:data-prop='Screen_Type'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Color'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Screen_Options'
+ProductOption String: select:data-prop='Wide_Bar'
+ProductOption String: select:data-prop='Wide_Bar'
+ProductOption String: select:data-prop='Wide_Bar'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S1'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Grille_Pattern_S2'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Exterior_Trim'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Grille_Style'
+ProductOption String: select:data-prop='Handing'
+ProductOption String: select:data-prop='Handing'
+ProductOption String: select:data-prop='Handing'
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+ProductOption String: mouse:drag
+[option] 0: select:id='product-type' Choose an option
+[option] 1: select:id='product-type' Patio Door
+[option] 2: select:data-prop='product' Choose an option
+[option] 3: select:data-prop='product' Gliding 200 Series Perma-Shield 1:1
+[option] 4: select:data-prop='product' Gliding 200 Series Perma-Shield 1:1:1:1
+[option] 5: select:data-prop='product' Gliding 200 Series Narroline 1:1
+[option] 6: select:data-prop='product' Gliding 200 Series Narroline 1:1:1:1
+[option] 7: select:data-prop='product' Gliding 400 Series Frenchwood 1:1
+[option] 8: select:data-prop='product' Gliding 400 Series Frenchwood 1:1:1:1
+[option] 9: select:data-prop='product' Gliding A-Series Frenchwood 1
+[option] 10: select:data-prop='product' Gliding A-Series Frenchwood 1:1
+[option] 11: select:data-prop='product' Gliding A-Series Frenchwood 1:2:1
+[option] 12: select:data-prop='product' Gliding A-Series Frenchwood 1:1:1:1
+[option] 13: select:data-prop='product' Inswing 400 Series Frenchwood 1
+[option] 14: select:data-prop='product' Inswing 400 Series Frenchwood 1:1
+[option] 15: select:data-prop='product' Inswing 400 Series Frenchwood 1:1:1
+[option] 16: select:data-prop='product' Inswing A-Series Frenchwood 1
+[option] 17: select:data-prop='product' Inswing A-Series Frenchwood 1:1
+[option] 18: select:data-prop='product' Inswing A-Series Frenchwood 1:1:1
+[option] 19: select:data-prop='product' Sidelight 400 Series Frenchwood 1
+[option] 20: select:data-prop='product' Transom 400 Series Frenchwood 1
+[option] 21: select:data-prop='product' Sidelight/Transom 400 Series Frenchwood 1
+[option] 22: select:data-prop='product' Sidelight 200 Series Narroline 1
+[option] 23: select:data-prop='product' Outswing A-Series Frenchwood 1
+[option] 24: select:data-prop='product' Outswing A-Series Frenchwood 1:1
+[option] 25: select:data-prop='Interior_Color' Choose an option
+[option] 26: select:data-prop='Interior_Color' Pine
+[option] 27: select:data-prop='Interior_Color' Oak
+[option] 28: select:data-prop='Interior_Color' Maple
+[option] 29: select:data-prop='Interior_Color' Fir
+[option] 30: select:data-prop='Interior_Color' Mahogany
+[option] 31: select:data-prop='Interior_Color' Cherry
+[option] 32: select:data-prop='Interior_Color' Black
+[option] 33: select:data-prop='Interior_Color' Sandtone
+[option] 34: select:data-prop='Interior_Color' Canvas
+[option] 35: select:data-prop='Interior_Color' Dark Bronze
+[option] 36: select:data-prop='Interior_Color' White
+[option] 37: select:data-prop='Interior_Color' Terratone
+[option] 38: select:data-prop='Interior_Color' Alder
+[option] 39: select:data-prop='Exterior_Color' Choose an option
+[option] 40: select:data-prop='Exterior_Color' White
+[option] 41: select:data-prop='Exterior_Color' Canvas
+[option] 42: select:data-prop='Exterior_Color' Sandtone
+[option] 43: select:data-prop='Exterior_Color' Terratone
+[option] 44: select:data-prop='Exterior_Color' Cocoa Bean
+[option] 45: select:data-prop='Exterior_Color' Dark Bronze
+[option] 46: select:data-prop='Exterior_Color' Forest Green
+[option] 47: select:data-prop='Exterior_Color' Black
+[option] 48: select:data-prop='Exterior_Color' Red Rock
+[option] 49: select:data-prop='Exterior_Color' Dove Grey
+[option] 50: select:data-prop='Exterior_Color' Prairie Grass
+[option] 51: select:data-prop='Interior_Pre_Finish' Choose an option
+[option] 52: select:data-prop='Interior_Pre_Finish' None
+[option] 53: select:data-prop='Interior_Pre_Finish' White
+[option] 54: select:data-prop='Interior_Pre_Finish' Primed
+[option] 55: select:data-prop='Interior_Pre_Finish' Birch Bark
+[option] 56: select:data-prop='Interior_Pre_Finish' Clear Coat
+[option] 57: select:data-prop='Interior_Pre_Finish' Honey
+[option] 58: select:data-prop='Interior_Pre_Finish' Cinnamon
+[option] 59: select:data-prop='Interior_Pre_Finish' Mocha
+[option] 60: select:data-prop='Interior_Pre_Finish' Russet
+[option] 61: select:data-prop='Door_Sill_Color' Choose an option
+[option] 62: select:data-prop='Door_Sill_Color' Grey Sill
+[option] 63: select:data-prop='Door_Sill_Color' Bronze Sill
+[option] 64: select:data-prop='Glazing_S1' Choose an option
+[option] 65: select:data-prop='Glazing_S1' High Performance SmartSun Glass
+[option] 66: select:data-prop='Glazing_S1' High Performance
+[option] 67: select:data-prop='Glazing_S1' High Performance Sun Glass
+[option] 68: select:data-prop='Glazing_S1' High Performance SmartSun with HeatLock Gloass
+[option] 69: select:data-prop='Glazing_S1' SmartSun Triple Pane
+[option] 70: select:data-prop='Glazing_S2' Choose an option
+[option] 71: select:data-prop='Glazing_S2' High Performance SmartSun Glass
+[option] 72: select:data-prop='Glazing_S2' High Performance
+[option] 73: select:data-prop='Glazing_S2' High Performance Sun Glass
+[option] 74: select:data-prop='Glazing_S2' High Performance SmartSun with HeatLock Gloass
+[option] 75: select:data-prop='Glazing_S2' SmartSun Triple Pane
+[option] 76: select:data-prop='Breather_Tubes' Choose an option
+[option] 77: select:data-prop='Breather_Tubes' true
+[option] 78: select:data-prop='Breather_Tubes' false
+[option] 79: select:data-prop='Glass_Pattern_S1' Choose an option
+[option] 80: select:data-prop='Glass_Pattern_S1' No Pattern
+[option] 81: select:data-prop='Glass_Pattern_S1' Obscure
+[option] 82: select:data-prop='Glass_Pattern_S1' Cascade
+[option] 83: select:data-prop='Glass_Pattern_S1' Fern
+[option] 84: select:data-prop='Glass_Pattern_S1' Reed
+[option] 85: select:data-prop='Glass_Pattern_S2' Choose an option
+[option] 86: select:data-prop='Glass_Pattern_S2' No Pattern
+[option] 87: select:data-prop='Glass_Pattern_S2' Obscure
+[option] 88: select:data-prop='Glass_Pattern_S2' Fern
+[option] 89: select:data-prop='Glass_Pattern_S2' Reed
+[option] 90: select:data-prop='Glass_Pattern_S2' Cascade
+[option] 91: select:data-prop='Hardware_Style' Choose an option
+[option] 92: select:data-prop='Hardware_Style' Tribeca
+[option] 93: select:data-prop='Hardware_Style' Anvers
+[option] 94: select:data-prop='Hardware_Style' Newbury
+[option] 95: select:data-prop='Hardware_Style' Covington
+[option] 96: select:data-prop='Hardware_Style' Whitmore
+[option] 97: select:data-prop='Hardware_Style' Encino
+[option] 98: select:data-prop='Hardware_Style' Yuma
+[option] 99: select:data-prop='Hardware_Style' Albany
+[option] 100: select:data-prop='Exterior_Keyed_Lock' Choose an option
+[option] 101: select:data-prop='Exterior_Keyed_Lock' true
+[option] 102: select:data-prop='Exterior_Keyed_Lock' false
+[option] 103: select:data-prop='Hardware_Color' Choose an option
+[option] 104: select:data-prop='Hardware_Color' White
+[option] 105: select:data-prop='Hardware_Color' Stone
+[option] 106: select:data-prop='Hardware_Color' Black
+[option] 107: select:data-prop='Hardware_Color' Gold Dust
+[option] 108: select:data-prop='Hardware_Color' Distressed Nickel
+[option] 109: select:data-prop='Hardware_Color' Distressed Bronze
+[option] 110: select:data-prop='Hardware_Color' Satin Nickel
+[option] 111: select:data-prop='Hardware_Color' Oil Rubbed Bronze
+[option] 112: select:data-prop='Hardware_Color' Antique Brass
+[option] 113: select:data-prop='Hardware_Color' Bright Brass
+[option] 114: select:data-prop='Hardware_Color' Brushed Chrome
+[option] 115: select:data-prop='Hardware_Color' Polished Chrome
+[option] 116: select:data-prop='Hardware_Color' Canvas
+[option] 117: select:data-prop='Hinge_Color' Choose an option
+[option] 118: select:data-prop='Hinge_Color' White
+[option] 119: select:data-prop='Hinge_Color' Black
+[option] 120: select:data-prop='Hinge_Color' Gold Dust
+[option] 121: select:data-prop='Hinge_Color' Distressed Nickel
+[option] 122: select:data-prop='Hinge_Color' Distressed Bronze
+[option] 123: select:data-prop='Hinge_Color' Satin Nickel
+[option] 124: select:data-prop='Hinge_Color' Oil Rubbed Bronze
+[option] 125: select:data-prop='Hinge_Color' Antique Brass
+[option] 126: select:data-prop='Hinge_Color' Bright Brass
+[option] 127: select:data-prop='Hinge_Color' Brushed Chrome
+[option] 128: select:data-prop='Hinge_Color' Polished Chrome
+[option] 129: select:data-prop='Screen_Type' Choose an option
+[option] 130: select:data-prop='Screen_Type' No Screen
+[option] 131: select:data-prop='Screen_Type' Fiberglass
+[option] 132: select:data-prop='Screen_Color' White
+[option] 133: select:data-prop='Screen_Color' Canvas
+[option] 134: select:data-prop='Screen_Color' Sandtone
+[option] 135: select:data-prop='Screen_Color' Terratone
+[option] 136: select:data-prop='Screen_Color' Dark Bronze
+[option] 137: select:data-prop='Screen_Color' Black
+[option] 138: select:data-prop='Screen_Color' Pine
+[option] 139: select:data-prop='Screen_Color' Oak
+[option] 140: select:data-prop='Screen_Color' Maple
+[option] 141: select:data-prop='Screen_Color' Stone
+[option] 142: select:data-prop='Screen_Color' Red Rock
+[option] 143: select:data-prop='Screen_Color' Cocoa Bean
+[option] 144: select:data-prop='Screen_Color' Forest Green
+[option] 145: select:data-prop='Screen_Color' Dove Grey
+[option] 146: select:data-prop='Screen_Color' Prairie Grass
+[option] 147: select:data-prop='Screen_Options' Choose an option
+[option] 148: select:data-prop='Screen_Options' Hinged
+[option] 149: select:data-prop='Screen_Options' Gliding
+[option] 150: select:data-prop='Screen_Options' Top-Hung Gliding
+[option] 151: select:data-prop='Screen_Options' Retractable
+[option] 152: select:data-prop='Screen_Options' Double Gliding
+[option] 153: select:data-prop='Screen_Options' Top-Hung Double Gliding
+[option] 154: select:data-prop='Screen_Options' Double Retractable
+[option] 155: select:data-prop='Wide_Bar' Choose an option
+[option] 156: select:data-prop='Wide_Bar' true
+[option] 157: select:data-prop='Wide_Bar' false
+[option] 158: select:data-prop='Grille_Pattern_S1' Choose an option
+[option] 159: select:data-prop='Grille_Pattern_S1' No Grilles
+[option] 160: select:data-prop='Grille_Pattern_S1' Colonial
+[option] 161: select:data-prop='Grille_Pattern_S1' Prairie
+[option] 162: select:data-prop='Grille_Pattern_S1' Farmhouse
+[option] 163: select:data-prop='Grille_Pattern_S1' Short Fractional
+[option] 164: select:data-prop='Grille_Pattern_S1' Long Fractional
+[option] 165: select:data-prop='Grille_Pattern_S2' Choose an option
+[option] 166: select:data-prop='Grille_Pattern_S2' No Grilles
+[option] 167: select:data-prop='Grille_Pattern_S2' Colonial
+[option] 168: select:data-prop='Grille_Pattern_S2' Prairie
+[option] 169: select:data-prop='Grille_Pattern_S2' Farmhouse
+[option] 170: select:data-prop='Grille_Pattern_S2' Short Fractional
+[option] 171: select:data-prop='Grille_Pattern_S2' Long Fractional
+[option] 172: select:data-prop='Exterior_Trim' Choose an option
+[option] 173: select:data-prop='Exterior_Trim' None
+[option] 174: select:data-prop='Exterior_Trim' 3 1/2" Flat
+[option] 175: select:data-prop='Exterior_Trim' 3 1/2" Flat with Decorative Trim
+[option] 176: select:data-prop='Exterior_Trim' 4 1/2" Flat
+[option] 177: select:data-prop='Exterior_Trim' 4 1/2" Flat with Decorative Trim
+[option] 178: select:data-prop='Exterior_Trim' Brickmould
+[option] 179: select:data-prop='Grille_Style' Choose an option
+[option] 180: select:data-prop='Grille_Style' Grilles Between Glass (GBG)
+[option] 181: select:data-prop='Grille_Style' Full Divided Light (FDL with spacer)
+[option] 182: select:data-prop='Grille_Style' Interior Wood Only (INTW)
+[option] 183: select:data-prop='Grille_Style' Interior Wood and GBG (INTW + GBG)
+[option] 184: select:data-prop='Grille_Style' Simulated Divided Light (FDL w/o spacer)
+[option] 185: select:data-prop='Handing' Choose an option
+[option] 186: select:data-prop='Handing' Active / Stationary
+[option] 187: select:data-prop='Handing' Stationary / Active
+[option] 188: mouse:drag 0,0
+[option] 189: mouse:drag 150,0
+[option] 190: mouse:drag 150,0
+[option] 191: mouse:drag 150,0
+[option] 192: mouse:drag 150,0
+[option] 193: mouse:drag 150,0
+[option] 194: mouse:drag 150,0
+[option] 195: mouse:drag 150,0
+[option] 196: mouse:drag 150,0
+[option] 197: mouse:drag 0,150
+[option] 198: mouse:drag 150,0
+[option] 199: mouse:drag 150,0
+[option] 200: mouse:drag 150,0
+[option] 201: mouse:drag 150,0
+[option] 202: mouse:drag 150,0
+[option] 203: mouse:drag 150,0
+[option] 204: mouse:drag 150,0
+[option] 205: mouse:drag 150,0
+[option] 206: mouse:drag 0,150
+[option] 207: mouse:drag 150,0
+[option] 208: mouse:drag 150,0
+[option] 209: mouse:drag 150,0
+[option] 210: mouse:drag 150,0
+[option] 211: mouse:drag 150,0
+[option] 212: mouse:drag 150,0
+[option] 213: mouse:drag 150,0
+[option] 214: mouse:drag 150,0
+[option] 215: mouse:drag 0,-450
+[option] 216: mouse:drag 150,0
+[option] 217: mouse:drag 150,0
+[option] 218: mouse:drag 150,0
+[option] 219: mouse:drag 150,0
+[option] 220: mouse:drag 150,0
+[option] 221: mouse:drag 150,0
+[option] 222: mouse:drag 150,0
+[option] 223: mouse:drag 150,0
+[option] 224: mouse:drag 0,-150
+[option] 225: mouse:drag 150,0
+[option] 226: mouse:drag 150,0
+[option] 227: mouse:drag 150,0
+[option] 228: mouse:drag 150,0
+[option] 229: mouse:drag 150,0
+[option] 230: mouse:drag 150,0
+[option] 231: mouse:drag 150,0
+[option] 232: mouse:drag 150,0
+[option] 233: mouse:drag 0,300
+getColumnCount ended: java.lang.NullPointerException
+0: Gliding A-Series Frenchwood 1=? customAttributeIdPair
+1: Gliding A-Series Frenchwood 1=? options
+2: Gliding A-Series Frenchwood 1=? Gliding A-Series Frenchwood 1
+rowCount: 235
+extractTaggedOption[2][0]: Gliding A-Series Frenchwood 1
+extractTaggedOption[2][1]: 
+extractTaggedOption[2][2]: x
+Add to options: select:id='product-type' Patio Door
+extractTaggedOption[2][3]: 
+extractTaggedOption[2][4]: 
+extractTaggedOption[2][5]: 
+extractTaggedOption[2][6]: 
+extractTaggedOption[2][7]: 
+extractTaggedOption[2][8]: 
+extractTaggedOption[2][9]: 
+extractTaggedOption[2][10]: x
+Add to options: select:data-prop='product' Gliding A-Series Frenchwood 1
+extractTaggedOption[2][11]: 
+extractTaggedOption[2][12]: 
+extractTaggedOption[2][13]: 
+extractTaggedOption[2][14]: 
+extractTaggedOption[2][15]: 
+extractTaggedOption[2][16]: 
+extractTaggedOption[2][17]: 
+extractTaggedOption[2][18]: 
+extractTaggedOption[2][19]: 
+extractTaggedOption[2][20]: 
+extractTaggedOption[2][21]: 
+extractTaggedOption[2][22]: 
+extractTaggedOption[2][23]: 
+extractTaggedOption[2][24]: 
+extractTaggedOption[2][25]: 
+extractTaggedOption[2][26]: 
+extractTaggedOption[2][27]: 
+extractTaggedOption[2][28]: 
+extractTaggedOption[2][29]: x
+Add to options: select:data-prop='Interior_Color' Maple
+extractTaggedOption[2][30]: 
+extractTaggedOption[2][31]: 
+extractTaggedOption[2][32]: 
+extractTaggedOption[2][33]: 
+extractTaggedOption[2][34]: 
+extractTaggedOption[2][35]: 
+extractTaggedOption[2][36]: 
+extractTaggedOption[2][37]: 
+extractTaggedOption[2][38]: 
+extractTaggedOption[2][39]: 
+extractTaggedOption[2][40]: 
+extractTaggedOption[2][41]: 
+extractTaggedOption[2][42]: 
+extractTaggedOption[2][43]: 
+extractTaggedOption[2][44]: 
+extractTaggedOption[2][45]: 
+extractTaggedOption[2][46]: 
+extractTaggedOption[2][47]: 
+extractTaggedOption[2][48]: x
+Add to options: select:data-prop='Exterior_Color' Black
+extractTaggedOption[2][49]: 
+extractTaggedOption[2][50]: 
+extractTaggedOption[2][51]: 
+extractTaggedOption[2][52]: 
+extractTaggedOption[2][53]: 
+extractTaggedOption[2][54]: 
+extractTaggedOption[2][55]: 
+extractTaggedOption[2][56]: 
+extractTaggedOption[2][57]: 
+extractTaggedOption[2][58]: 
+extractTaggedOption[2][59]: 
+extractTaggedOption[2][60]: 
+extractTaggedOption[2][61]: 
+extractTaggedOption[2][62]: 
+extractTaggedOption[2][63]: 
+extractTaggedOption[2][64]: 
+extractTaggedOption[2][65]: 
+extractTaggedOption[2][66]: 
+extractTaggedOption[2][67]: 
+extractTaggedOption[2][68]: 
+extractTaggedOption[2][69]: 
+extractTaggedOption[2][70]: 
+extractTaggedOption[2][71]: 
+extractTaggedOption[2][72]: 
+extractTaggedOption[2][73]: 
+extractTaggedOption[2][74]: 
+extractTaggedOption[2][75]: 
+extractTaggedOption[2][76]: 
+extractTaggedOption[2][77]: 
+extractTaggedOption[2][78]: 
+extractTaggedOption[2][79]: 
+extractTaggedOption[2][80]: 
+extractTaggedOption[2][81]: 
+extractTaggedOption[2][82]: 
+extractTaggedOption[2][83]: 
+extractTaggedOption[2][84]: 
+extractTaggedOption[2][85]: 
+extractTaggedOption[2][86]: 
+extractTaggedOption[2][87]: 
+extractTaggedOption[2][88]: 
+extractTaggedOption[2][89]: 
+extractTaggedOption[2][90]: 
+extractTaggedOption[2][91]: 
+extractTaggedOption[2][92]: 
+extractTaggedOption[2][93]: 
+extractTaggedOption[2][94]: 
+extractTaggedOption[2][95]: 
+extractTaggedOption[2][96]: 
+extractTaggedOption[2][97]: 
+extractTaggedOption[2][98]: 
+extractTaggedOption[2][99]: 
+extractTaggedOption[2][100]: 
+extractTaggedOption[2][101]: 
+extractTaggedOption[2][102]: 
+extractTaggedOption[2][103]: 
+extractTaggedOption[2][104]: 
+extractTaggedOption[2][105]: 
+extractTaggedOption[2][106]: 
+extractTaggedOption[2][107]: 
+extractTaggedOption[2][108]: 
+extractTaggedOption[2][109]: 
+extractTaggedOption[2][110]: 
+extractTaggedOption[2][111]: 
+extractTaggedOption[2][112]: 
+extractTaggedOption[2][113]: 
+extractTaggedOption[2][114]: 
+extractTaggedOption[2][115]: 
+extractTaggedOption[2][116]: 
+extractTaggedOption[2][117]: 
+extractTaggedOption[2][118]: 
+extractTaggedOption[2][119]: 
+extractTaggedOption[2][120]: 
+extractTaggedOption[2][121]: 
+extractTaggedOption[2][122]: 
+extractTaggedOption[2][123]: 
+extractTaggedOption[2][124]: 
+extractTaggedOption[2][125]: 
+extractTaggedOption[2][126]: 
+extractTaggedOption[2][127]: 
+extractTaggedOption[2][128]: 
+extractTaggedOption[2][129]: 
+extractTaggedOption[2][130]: 
+extractTaggedOption[2][131]: 
+extractTaggedOption[2][132]: 
+extractTaggedOption[2][133]: 
+extractTaggedOption[2][134]: 
+extractTaggedOption[2][135]: 
+extractTaggedOption[2][136]: 
+extractTaggedOption[2][137]: 
+extractTaggedOption[2][138]: 
+extractTaggedOption[2][139]: 
+extractTaggedOption[2][140]: 
+extractTaggedOption[2][141]: 
+extractTaggedOption[2][142]: 
+extractTaggedOption[2][143]: 
+extractTaggedOption[2][144]: 
+extractTaggedOption[2][145]: 
+extractTaggedOption[2][146]: 
+extractTaggedOption[2][147]: 
+extractTaggedOption[2][148]: 
+extractTaggedOption[2][149]: 
+extractTaggedOption[2][150]: 
+extractTaggedOption[2][151]: 
+extractTaggedOption[2][152]: 
+extractTaggedOption[2][153]: 
+extractTaggedOption[2][154]: 
+extractTaggedOption[2][155]: 
+extractTaggedOption[2][156]: 
+extractTaggedOption[2][157]: 
+extractTaggedOption[2][158]: 
+extractTaggedOption[2][159]: 
+extractTaggedOption[2][160]: 
+extractTaggedOption[2][161]: 
+extractTaggedOption[2][162]: 
+extractTaggedOption[2][163]: 
+extractTaggedOption[2][164]: 
+extractTaggedOption[2][165]: 
+extractTaggedOption[2][166]: 
+extractTaggedOption[2][167]: 
+extractTaggedOption[2][168]: 
+extractTaggedOption[2][169]: 
+extractTaggedOption[2][170]: 
+extractTaggedOption[2][171]: 
+extractTaggedOption[2][172]: 
+extractTaggedOption[2][173]: 
+extractTaggedOption[2][174]: 
+extractTaggedOption[2][175]: 
+extractTaggedOption[2][176]: 
+extractTaggedOption[2][177]: 
+extractTaggedOption[2][178]: 
+extractTaggedOption[2][179]: 
+extractTaggedOption[2][180]: 
+extractTaggedOption[2][181]: 
+extractTaggedOption[2][182]: 
+extractTaggedOption[2][183]: 
+extractTaggedOption[2][184]: 
+extractTaggedOption[2][185]: 
+extractTaggedOption[2][186]: 
+extractTaggedOption[2][187]: 
+extractTaggedOption[2][188]: 
+extractTaggedOption[2][189]: x
+Add to options: mouse:drag 0,0
+extractTaggedOption[2][190]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][191]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][192]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][193]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][194]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][195]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][196]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][197]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][198]: x
+Add to options: mouse:drag 0,150
+extractTaggedOption[2][199]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][200]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][201]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][202]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][203]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][204]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][205]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][206]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][207]: x
+Add to options: mouse:drag 0,150
+extractTaggedOption[2][208]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][209]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][210]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][211]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][212]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][213]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][214]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][215]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][216]: x
+Add to options: mouse:drag 0,-450
+extractTaggedOption[2][217]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][218]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][219]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][220]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][221]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][222]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][223]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][224]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][225]: x
+Add to options: mouse:drag 0,-150
+extractTaggedOption[2][226]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][227]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][228]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][229]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][230]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][231]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][232]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][233]: x
+Add to options: mouse:drag 150,0
+extractTaggedOption[2][234]: x
+Add to options: mouse:drag 0,300
+[config] 0: select:id='product-type' Patio Door
+[config] 1: select:data-prop='product' Gliding A-Series Frenchwood 1
+[config] 2: select:data-prop='Interior_Color' Maple
+[config] 3: select:data-prop='Exterior_Color' Black
+[config] 4: mouse:drag 0,0
+[config] 5: mouse:drag 150,0
+[config] 6: mouse:drag 150,0
+[config] 7: mouse:drag 150,0
+[config] 8: mouse:drag 150,0
+[config] 9: mouse:drag 150,0
+[config] 10: mouse:drag 150,0
+[config] 11: mouse:drag 150,0
+[config] 12: mouse:drag 150,0
+[config] 13: mouse:drag 0,150
+[config] 14: mouse:drag 150,0
+[config] 15: mouse:drag 150,0
+[config] 16: mouse:drag 150,0
+[config] 17: mouse:drag 150,0
+[config] 18: mouse:drag 150,0
+[config] 19: mouse:drag 150,0
+[config] 20: mouse:drag 150,0
+[config] 21: mouse:drag 150,0
+[config] 22: mouse:drag 0,150
+[config] 23: mouse:drag 150,0
+[config] 24: mouse:drag 150,0
+[config] 25: mouse:drag 150,0
+[config] 26: mouse:drag 150,0
+[config] 27: mouse:drag 150,0
+[config] 28: mouse:drag 150,0
+[config] 29: mouse:drag 150,0
+[config] 30: mouse:drag 150,0
+[config] 31: mouse:drag 0,-450
+[config] 32: mouse:drag 150,0
+[config] 33: mouse:drag 150,0
+[config] 34: mouse:drag 150,0
+[config] 35: mouse:drag 150,0
+[config] 36: mouse:drag 150,0
+[config] 37: mouse:drag 150,0
+[config] 38: mouse:drag 150,0
+[config] 39: mouse:drag 150,0
+[config] 40: mouse:drag 0,-150
+[config] 41: mouse:drag 150,0
+[config] 42: mouse:drag 150,0
+[config] 43: mouse:drag 150,0
+[config] 44: mouse:drag 150,0
+[config] 45: mouse:drag 150,0
+[config] 46: mouse:drag 150,0
+[config] 47: mouse:drag 150,0
+[config] 48: mouse:drag 150,0
+[config] 49: mouse:drag 0,300
+C:\eclipse-workspace\configAutomation2\FitNesseRoot\files\Auto Config 2_Gliding A-Series Frenchwood 1.mp4
+2018-12-21 10:04:54 [main] INFO  VlcScreenRecorder  - start recording, C:\eclipse-workspace\configAutomation2\FitNesseRoot\files\Auto Config 2_Gliding A-Series Frenchwood 1.mp4
+
+optionsConfiguration.size(): 50
+Start navigation for Gliding A-Series Frenchwood 1 [50]
+
+action: select
+attributeIdPair: id='product-type'
+selection: Patio Door
+
+select
+count: 4
+select: id='product-type'|Patio Door
+Dropdown 0: Choose an option
+Dropdown 1: Window
+Dropdown 2: Patio Door
+Dropdown 3: Specialty
+
+action: select
+attributeIdPair: data-prop='product'
+selection: Gliding A-Series Frenchwood 1
+
+select
+count: 31
+select: data-prop='product'|Gliding A-Series Frenchwood 1
+Dropdown 0: Choose an option
+Dropdown 1: Gliding 200 Series Perma-Shield 1:1
+Dropdown 2: Gliding 200 Series Perma-Shield 1:1:1:1
+Dropdown 3: Gliding 200 Series Narroline 1:1
+Dropdown 4: Gliding 200 Series Narroline 1:1:1:1
+Dropdown 5: Gliding 400 Series Frenchwood 1
+Dropdown 6: Gliding 400 Series Frenchwood 1:1
+Dropdown 7: Gliding 400 Series Frenchwood 1:1:1:1
+Dropdown 8: Gliding A-Series Frenchwood 1
+Dropdown 9: Gliding A-Series Frenchwood 1:1
+Dropdown 10: null
+</stdOut>
+    <stdErr>Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 9258
+
+Only local connections are allowed.
+
+Dec 21, 2018 10:04:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+[1545415505.617][SEVERE]: Unable to receive message from renderer
+
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>33391</totalRunTimeInMillis>
+</testResults>
+

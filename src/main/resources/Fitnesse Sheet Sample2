@@ -1,0 +1,98 @@
+#!path C:\eclipse-workspace\configAutomation\target\classes
+#!path C:\Users\gaguilar\Downloads\configAutomation
+
+!***> paths
+
+!define TEST_SYSTEM {slim}
+!path C:\baseline
+!path C:\Program Files\Java\jre1.8.0_161\lib\resources.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\rt.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\jce.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\access-bridge-64.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\cldrdata.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\dnsns.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\jaccess.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\jfxrt.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\localedata.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\nashorn.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\sunec.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\sunjce_provider.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\sunmscapi.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\sunpkcs11.jar
+!path C:\Program Files\Java\jre1.8.0_161\lib\ext\zipfs.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar
+!path C:\Users\gaguilar\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar
+!path C:\Users\gaguilar\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+!path C:\Users\gaguilar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar
+!path C:\Users\gaguilar\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar
+!path C:\Users\gaguilar\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar
+!path C:\Users\gaguilar\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar
+!path C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar
+!path C:\Users\gaguilar\.m2\repository\org\htmlparser\htmlparser\2.1\htmlparser-2.1.jar
+!path C:\Users\gaguilar\.m2\repository\org\htmlparser\htmllexer\2.1\htmllexer-2.1.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar
+!path C:\Users\gaguilar\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar
+!path C:\Users\gaguilar\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+!path C:\Users\gaguilar\.m2\repository\org\json\json\20151123\json-20151123.jar
+!path C:\Users\gaguilar\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\ant\ant\1.9.6\ant-1.9.6.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\ant\ant-launcher\1.9.6\ant-launcher-1.9.6.jar
+!path C:\Users\gaguilar\.m2\repository\junit\junit\4.12\junit-4.12.jar
+!path C:\Users\gaguilar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\poi\poi\3.11\poi-3.11.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml\3.11\poi-ooxml-3.11.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.11\poi-ooxml-schemas-3.11.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+!path C:\Users\gaguilar\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+!path C:\Users\gaguilar\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar
+!path C:\Users\gaguilar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar
+!path C:\Users\gaguilar\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar
+!path C:\Users\gaguilar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar
+!path C:\Users\gaguilar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar
+!path C:\Users\gaguilar\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar
+!path C:\Users\gaguilar\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar
+!path C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar
+!path C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar
+!path C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna\4.2.0\jna-4.2.0.jar
+!path C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar
+!path C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar
+!path C:\Users\gaguilar\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar
+!path C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar
+
+*!
+!***> imports
+
+|import          |
+|configAutomation|
+
+|import            |
+|fitnesse.slim.test|
+
+|import           |
+|fitnesse.fixtures|
+*!
+
+!|script|Test Fixture|
+|set target excel|C:\Users\gaguilar\Desktop\Andersen.xlsx|
+|set target chrome|C:\Program Files (x86)\Google\Chrome\Application\chrome.exe|
+|set target home|https://andersen.inhance.io/app/test.html|
+|set automation tools|
+|set target sheet|Auto Config|
+|show|simulation|Gliding A-Series Frenchwood 1|
+|close browser|

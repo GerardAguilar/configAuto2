@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20180127</FitNesseVersion>
+  <rootPath>FrontPage.TestFixture</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <date>2018-12-21T16:49:09-08:00</date>
+    <runTimeInMillis>18293</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\eclipse-workspace\configAutomation2\target\classes&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;paths&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: TEST_SYSTEM=slim&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\baseline&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\resources.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\rt.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jce.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\access-bridge-64.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\cldrdata.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\dnsns.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\jaccess.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\jfxrt.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\localedata.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\nashorn.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunec.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunjce_provider.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunmscapi.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\sunpkcs11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Program Files\Java\jre1.8.0_161\lib\ext\zipfs.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\htmlparser\htmlparser\2.1\htmlparser-2.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\htmlparser\htmllexer\2.1\htmllexer-2.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\json\json\20151123\json-20151123.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\ant\ant\1.9.6\ant-1.9.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\ant\ant-launcher\1.9.6\ant-launcher-1.9.6.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\junit\junit\4.12\junit-4.12.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi\3.11\poi-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml\3.11\poi-ooxml-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.11\poi-ooxml-schemas-3.11.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna\4.2.0\jna-4.2.0.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;classpath: C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar&lt;/span&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;imports&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;configAutomation&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;fitnesse.slim.test&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;fitnesse.fixtures&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="3"&gt;&lt;span class="pass"&gt;Test Fixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;border &lt;span class="error"&gt;Method border[2] not found in configAutomation.TestFixture.&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;-&lt;/td&gt;
+		&lt;td&gt;-&lt;/td&gt;
+		&lt;td&gt;-&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor2"&gt;
+		&lt;td&gt;set target excel&lt;/td&gt;
+		&lt;td colspan="3"&gt;C:\Users\gaguilar\Desktop\Andersen.xlsx&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set target chrome&lt;/td&gt;
+		&lt;td colspan="3"&gt;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;set target home&lt;/td&gt;
+		&lt;td colspan="3"&gt;https://andersen.inhance.io/app/test.html&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor6"&gt;
+		&lt;td colspan="4"&gt;set automation tools&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;set target sheet&lt;/td&gt;
+		&lt;td colspan="3"&gt;Auto Config 2&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td colspan="4"&gt;close browser&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>TestFixture</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='import_0_0', instruction='import', path='configAutomation'}</instruction>
+        <slimResult>pass(configAutomation)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_0_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>configAutomation</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='import_1_0', instruction='import', path='fitnesse.slim.test'}</instruction>
+        <slimResult>pass(fitnesse.slim.test)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_1_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>fitnesse.slim.test</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='import_2_0', instruction='import', path='fitnesse.fixtures'}</instruction>
+        <slimResult>pass(fitnesse.fixtures)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_2_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>fitnesse.fixtures</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_0', instruction='make', instanceName='scriptTableActor', className='TestFixture', args=[]}</instruction>
+        <slimResult>pass(Test Fixture)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>scriptTable_3_0</instructionId>
+                    <col>1</col>
+                              <row>0</row>
+                    <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Test Fixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_1', instruction='call', instanceName='scriptTableActor', methodName='border', args=[-, -]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_1</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method border[2] not found in configAutomation.TestFixture.</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_2', instruction='call', instanceName='scriptTableActor', methodName='setTargetExcel', args=[C:\Users\gaguilar\Desktop\Andersen.xlsx]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_2</instructionId>
+                    <col>0</col>
+                              <row>2</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_3', instruction='call', instanceName='scriptTableActor', methodName='setTargetChrome', args=[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_3</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_4', instruction='call', instanceName='scriptTableActor', methodName='setTargetHome', args=[https://andersen.inhance.io/app/test.html]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_4</instructionId>
+                    <col>0</col>
+                              <row>4</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_5', instruction='call', instanceName='scriptTableActor', methodName='setAutomationTools', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_5</instructionId>
+                    <col>0</col>
+                              <row>5</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_6', instruction='call', instanceName='scriptTableActor', methodName='setTargetSheet', args=[Auto Config 2]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_6</instructionId>
+                    <col>0</col>
+                              <row>6</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_7', instruction='call', instanceName='scriptTableActor', methodName='closeBrowser', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_3_7</instructionId>
+                    <col>0</col>
+                              <row>7</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"C:\Program Files\Java\jdk1.8.0_161\bin\java" -cp "C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar;C:\eclipse-workspace\configAutomation2\target\classes;C:\baseline;C:\Program Files\Java\jre1.8.0_161\lib\resources.jar;C:\Program Files\Java\jre1.8.0_161\lib\rt.jar;C:\Program Files\Java\jre1.8.0_161\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_161\lib\jce.jar;C:\Program Files\Java\jre1.8.0_161\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_161\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_161\lib\ext\zipfs.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\gaguilar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\gaguilar\.m2\repository\net\bytebuddy\byte-buddy\1.8.3\byte-buddy-1.8.3.jar;C:\Users\gaguilar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\gaguilar\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\gaguilar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\gaguilar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\gaguilar\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\gaguilar\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\gaguilar\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\gaguilar\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar;C:\Users\gaguilar\.m2\repository\org\htmlparser\htmlparser\2.1\htmlparser-2.1.jar;C:\Users\gaguilar\.m2\repository\org\htmlparser\htmllexer\2.1\htmllexer-2.1.jar;C:\Users\gaguilar\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar;C:\Users\gaguilar\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\gaguilar\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\gaguilar\.m2\repository\org\json\json\20151123\json-20151123.jar;C:\Users\gaguilar\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar;C:\Users\gaguilar\.m2\repository\org\apache\ant\ant\1.9.6\ant-1.9.6.jar;C:\Users\gaguilar\.m2\repository\org\apache\ant\ant-launcher\1.9.6\ant-launcher-1.9.6.jar;C:\Users\gaguilar\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\gaguilar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi\3.11\poi-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml\3.11\poi-ooxml-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.11\poi-ooxml-schemas-3.11.jar;C:\Users\gaguilar\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\gaguilar\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\gaguilar\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar;C:\Users\gaguilar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\gaguilar\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar;C:\Users\gaguilar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\gaguilar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\gaguilar\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\gaguilar\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar;C:\Users\gaguilar\.m2\repository\uk\co\caprica\vlcj\3.10.1\vlcj-3.10.1.jar;C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Users\gaguilar\.m2\repository\net\java\dev\jna\jna\4.2.0\jna-4.2.0.jar;C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\gaguilar\.m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;C:\Users\gaguilar\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar;C:\Users\gaguilar\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar" fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>ExcelUtilities Initializing: C:\Users\gaguilar\Desktop\Andersen.xlsx
+Target Sheet = C:\Users\gaguilar\Desktop\Andersen.xlsx
+Target Chrome = C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Target Home = https://andersen.inhance.io/app/test.html
+tempFitnessDirectory: C:\eclipse-workspace\configAutomation2\FitNesseRoot\files\
+Location of chromedriver.exe is C:\eclipse-workspace\configAutomation2\chromedriver.exe
+resource: file:/C:/eclipse-workspace/configAutomation2/target/classes/chromedriver.exe
+chrome binary location: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chromedriver.exe already exists
+2018-12-21 16:49:24 [main] INFO  Info  - vlcj: 3.10.1
+
+2018-12-21 16:49:24 [main] INFO  Info  - java: 1.8.0_161 Oracle Corporation
+
+2018-12-21 16:49:24 [main] INFO  Info  - java home: C:\Program Files\Java\jdk1.8.0_161\jre
+
+2018-12-21 16:49:24 [main] INFO  Info  - os: Windows 10 10.0 amd64
+
+2018-12-21 16:49:25 [main] INFO  LibVlcFactory  - vlc: 3.0.4 Vetinari, changeset 3.0.4-0-gf615db6332
+
+2018-12-21 16:49:25 [main] INFO  LibVlcFactory  - libvlc: C:\eclipse-workspace\configAutomation2\target\classes\libvlc.dll
+
+Target Sheet = Auto Config 2
+</stdOut>
+    <stdErr>Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 30166
+
+Only local connections are allowed.
+
+Dec 21, 2018 4:49:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>19233</totalRunTimeInMillis>
+</testResults>
+
